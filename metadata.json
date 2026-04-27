@@ -1,0 +1,6 @@
+{
+  "name": "YieldPilot",
+  "description": "YieldPilot is an AI Liquidity Manager on Base Chain. It allows users to deposit USDC and automatically allocates funds to the safest, highest-yield DeFi opportunities using AI quant strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
